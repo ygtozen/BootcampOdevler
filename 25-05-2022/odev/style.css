@@ -1,0 +1,37 @@
+#div_ana{
+    width: 50%;
+    background-color: #ff0000;
+    border:3px solid black;
+}
+
+#ic{
+    background-color: #b22222 ;
+    margin: 50px;
+    padding-left: 20px;
+}
+
+#name{
+    margin-top: 10px;
+}
+
+form div{
+    color: white;
+    margin-top: 5px;
+    
+}
+
+
+#btn{
+    width: 80%;
+    border-radius: 20px;
+    border: none;
+    font-size: 30px;
+    margin: 8px;
+    text-align: center;
+}
+
+
+
+
+
+
